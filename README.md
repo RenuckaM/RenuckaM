@@ -1,12 +1,10 @@
 # Welcome to [Renucka M's Profile1](https://github.com/RenuckaM/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/renucka-m-82138b26a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renuckaM" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/Renucka_M" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renucka" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100084564415927" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="renuckam" height="30" width="40" /></a>
 &nbsp;
 
 
@@ -21,7 +19,7 @@ I am a full-stack Developer as well as Graphic Designer.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **MEAN and MERN Full Stack Developer Student**
-- 🔭 I’m currently working on [React JS](https://github.com/AswinBarath/ju-query) platform
+- 🔭 I’m currently working on [React JS]platform
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm a **Freelancer** and **tech enthusiast** with 100 user reads
 - 🌱 I'm currently learning:
@@ -108,10 +106,10 @@ I am a full-stack Developer as well as Graphic Designer.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
+React        5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
 Java         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
 JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+CSS          3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
