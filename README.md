@@ -6,7 +6,7 @@
 &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100084564415927" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
-<a href="mailto:mrenucka@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Renucka M" height="30" width="40" /></a>
+<a href="mailto:mrenucka@gmail.com" target="_blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Renucka M" height="30" width="40" /></a>
 &nbsp;
 
 ## Glad to see you here!
