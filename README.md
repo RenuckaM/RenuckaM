@@ -138,7 +138,7 @@ Adobe PhotoShop         1 hrs 35 mins   ███░░░░░░░░░░�
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Renucka M's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Renucka M's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RenuckaM&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
 	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Renucka M's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenuckaM&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Html,CSS3,Javascript,React,Angular,MongoDB,ExpressJS,NodeJS,Adobe Photoshop" height="172px"/></a>
   <br/>
   ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
