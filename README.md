@@ -33,7 +33,8 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
 &nbsp;
 <a href="https://leetcode.com/Renucka_M/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RenuckaM" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/profile/717821d138" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="renuckam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/717821d138" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.hackerearth.com/@717821d138?purpose=login&source=homepage&update=google" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="renuckam" height="30" width="40" /></a>
 &nbsp;
