@@ -4,6 +4,8 @@
 &nbsp;
 <a href="https://twitter.com/Renucka_M" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renucka" height="30" width="40" /></a>
 &nbsp;
+<a href="[https://www.facebook.com/profile.php?id=100011683902531](https://www.facebook.com/profile.php?id=100084564415927)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+&nbsp;
 
 
 
@@ -37,7 +39,7 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
 &nbsp;
 <a href="https://www.hackerrank.com/profile/717821d138" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="renuckam" height="30" width="40" /></a>
 &nbsp;
-<a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/717821d138" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="renuckam" height="30" width="40" /></a>
 &nbsp;
 <a href="[https://www.codechef.com/users/kce717821d138](https://www.codechef.com/users/kce717821d138)" target="_blank"><img alt="center" src="https://www.codechef.com/sites/all/themes/abessive/logo.png" alt="Janashree2004" height="30" width="40" />
 </a>
