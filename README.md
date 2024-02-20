@@ -11,7 +11,7 @@
 
 ## Glad to see you here!
 
-I am a full-stack Developer as well as Graphic Designer.
+I'm a Computer Science and Design graduate, thriving as a full-stack developer. Coding is my passion, and I'm known for crafting remarkable web applications with creativity and innovation. Beyond the screen, I'm a cherished and lovable individual. As a tech enthusiast, my expertise extends to graphic design, adding an artistic touch to my projects. With a blend of technical prowess and a warm personality, I bring ideas to life, creating digital experiences that stand out.🚀
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -19,11 +19,12 @@ I am a full-stack Developer as well as Graphic Designer.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **MEAN and MERN Full Stack Developer Student**
-- 🔭 I’m currently working on [React JS](https://react.dev/)platform
+- 🔭 I’m currently working on [React JS](https://react.dev/) platform
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm a **Freelancer** and **tech enthusiast** with 100 user reads
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Renucka_M/)
+  - MongoDB,Express Js and Mode Js on [HCL](https://www.google.com/search?q=hcl+training+institute&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQkxMjYxajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#vhid=zephyrhttps://www.facebook.com/hclcdcpeelamedu/&vssid=global)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [mrenucka@gmail.com](mailto:mrenucka@gmail.com)
 - 📝 [Resume]().
@@ -75,15 +76,7 @@ I am a full-stack Developer as well as Graphic Designer.
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-## 🎨 Designing tools
+### 🎨 Designing tools
 
 <p>
      <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF.svg?logo=adobe-photoshop&logoColor=white"></a>
@@ -95,6 +88,19 @@ I am a full-stack Developer as well as Graphic Designer.
      <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543.svg?logo=gimp&logoColor=white"></a>
 
 </p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Dev C++" src="https://img.shields.io/badge/Dev_C++-00599C.svg?logo=dev.to&logoColor=white"></a>
+    <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?logo=eclipse-ide&logoColor=white"></a>
+
+</p>
+
+
 
 ---
 
