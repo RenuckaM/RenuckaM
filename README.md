@@ -39,8 +39,8 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
 &nbsp;
 <a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.codechef.com/users/kce717821d138" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="YourCodeChefUsername" height="30" width="40" />
+<a href="[https://www.codechef.com/users/YourCodeChefUsername](https://www.codechef.com/users/kce717821d138)" target="_blank">
+  <img align="center" src="[CodeChefLogoImageUrl](https://cdn.codechef.com/images/cc-logo.svg)" alt="YourCodeChefUsername" height="30" width="40" />
 </a>
 &nbsp;
 
