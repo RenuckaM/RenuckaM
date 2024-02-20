@@ -4,12 +4,8 @@
 &nbsp;
 <a href="https://twitter.com/Renucka_M" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renucka" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://www.facebook.com/profile.php?id=100011683902531](https://www.facebook.com/profile.php?id=100084564415927)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
-
-
-
-
 
 ## Glad to see you here!
 
