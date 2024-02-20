@@ -110,14 +110,14 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
 
 <!--START_SECTION:waka-->
 ```text
-React                   5 hrs 3 mins    ███████████░░░░░░░░░░░  
-JavaScript              4 hrs 35 mins   ████████░░░░░░░░░░░░░░  
-Java                    2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░   
-CSS                     3 hrs 30 mins   █████░░░░░░░░░░░░░░░░░   
-HTML                    8 hrs 15 mins   ██████████████░░░░░░░░
-Angular                 5 hrs 3 mins    ███████████░░░░░░░░░░░
-MongoDB                 2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░
-Express Js, Node JS     2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░
+React                   5 hrs 3 mins    ██████████████░░░░░░░░  
+JavaScript              4 hrs 35 mins   ███████████░░░░░░░░░░░  
+Java                    2 hrs 34 mins   █████░░░░░░░░░░░░░░░░░   
+CSS                     3 hrs 30 mins   ████████░░░░░░░░░░░░░░   
+HTML                    8 hrs 15 mins   ███████████████████░░░
+Angular                 5 hrs 3 mins    ██████████████░░░░░░░░
+MongoDB                 2 hrs 34 mins   █████░░░░░░░░░░░░░░░░░
+Express Js, Node JS     2 hrs 30 mins   █████░░░░░░░░░░░░░░░░░
 Adobe PhotoShop         1 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
