@@ -19,7 +19,7 @@ I am a full-stack Developer as well as Graphic Designer.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **MEAN and MERN Full Stack Developer Student**
-- 🔭 I’m currently working on [React JS]platform
+- 🔭 I’m currently working on [React JS](https://react.dev/)platform
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm a **Freelancer** and **tech enthusiast** with 100 user reads
 - 🌱 I'm currently learning:
