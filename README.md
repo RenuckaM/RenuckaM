@@ -16,7 +16,7 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
-### Talking about Personal Stuff:
+### Talking about my Personal Stuff:
 
 - 👨‍🎓 I'm a **MEAN and MERN Full Stack Developer Student**
 - 🔭 I’m currently working on [React JS](https://react.dev/) platform
@@ -38,6 +38,10 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
 <a href="https://www.hackerrank.com/profile/717821d138" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="renuckam" height="30" width="40" /></a>
 &nbsp;
 <a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.codechef.com/users/kce717821d138" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="YourCodeChefUsername" height="30" width="40" />
+</a>
 &nbsp;
 
 ---
