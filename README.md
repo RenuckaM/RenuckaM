@@ -24,7 +24,7 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
 - ✍ I'm a **Freelancer** and **tech enthusiast** with 100 user reads
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Renucka_M/)
-  - MongoDB,Express Js and Mode Js on [HCL](https://www.facebook.com/hclcdcpeelamedu/)
+  - MongoDB,Express Js and Node Js on [HCL](https://www.facebook.com/hclcdcpeelamedu/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [mrenucka@gmail.com](mailto:mrenucka@gmail.com)
 - 📝 [Resume]().
