@@ -87,7 +87,7 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
      <a href="#"><img alt="Adobe Color" src="https://img.shields.io/badge/Adobe%20Color-FF0000.svg?logo=adobe&logoColor=white"></a>
      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
-     <a href="#"><img alt="Picsart" src="https://img.shields.io/badge/Picsart-FFA726.svg?logo=picsart&logoColor=white"></a>
+<!--      <a href="#"><img alt="Picsart" src="https://img.shields.io/badge/Picsart-FFA726.svg?logo=picsart&logoColor=white"></a> -->
      <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543.svg?logo=gimp&logoColor=white"></a>
 
 </p>
