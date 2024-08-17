@@ -18,13 +18,10 @@ I'm a Computer Science and Design graduate, thriving as a full-stack developer. 
 
 ### Talking about my Personal Stuff:
 
-- 👨‍🎓 I'm a **MEAN and MERN Full Stack Developer Student**
+- 👨‍🎓 I'm a **Frontend Developer**
 - 🔭 I’m currently working on [React JS](https://react.dev/) platform
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm a **Freelancer** and **tech enthusiast** with 100 user reads
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Renucka_M/)
-  - Flutter on [Udemy](https://www.udemy.com/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [mrenucka@gmail.com](mailto:mrenucka@gmail.com)
 - 📝 [Resume]().
