@@ -6,7 +6,7 @@ I’m a Computer Science and Design graduate, passionate about developing innova
 
 - 👨‍🎓 I'm a **Frontend Developer | App Developer**
 - 🔭 I’m currently working on [SwiftUI](https://developer.apple.com/xcode/swiftui/) platform.
-- ✍ I'm a **Freelancer** and **tech enthusiast** with 100 user reads
+- ✍ I'm a **Freelancer** and **tech enthusiast.** 
 - 📬 How to reach me: [mrenucka@gmail.com](mailto:mrenucka@gmail.com)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
