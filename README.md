@@ -4,7 +4,7 @@ I’m a Computer Science and Design graduate, passionate about developing innova
 
 ### Talking about my Personal Stuff:
 
-- 👨‍🎓 I'm a **Frontend Developer | App Developer**
+- 👨‍🎓 I'm a **MERN Full Stack Developer | iOS & Flutter App Developer | Software Developer**
 - 🔭 I’m currently working on [SwiftUI](https://developer.apple.com/xcode/swiftui/) platform.
 - ✍ I'm a **Freelancer** and **tech enthusiast.** 
 - 📬 How to reach me: [mrenucka@gmail.com](mailto:mrenucka@gmail.com)
